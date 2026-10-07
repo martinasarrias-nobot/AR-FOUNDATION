@@ -6551,14 +6551,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1503917042}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f07ca66ce5514fb7a26ab1e51e9bfec, type: 3}
+  m_Script: {fileID: 11500000, guid: 7ab0e80cee9cc1d44928bfe488dd1e2d, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Unity.XR.ARFoundation::UnityEngine.XR.ARFoundation.ARTrackedObjectManager
+  m_EditorClassIdentifier: Unity.XR.ARFoundation::UnityEngine.XR.ARFoundation.ARPointCloudManager
   <trackablesChanged>k__BackingField:
     m_PersistentCalls:
       m_Calls: []
-  m_ReferenceLibrary: {fileID: 11400000, guid: ac90a229acc7a08438dab8f9394b9f49, type: 2}
-  m_TrackedObjectPrefab: {fileID: 2330745333283760304, guid: 0830f5426ec630a44b0d65218538f86a, type: 3}
+  m_PointCloudPrefab: {fileID: 7711760617708248908, guid: e2612e9b5847a53418e3e38ac3aa7db3, type: 3}
 --- !u!1 &1520419809
 GameObject:
   m_ObjectHideFlags: 0
