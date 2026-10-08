@@ -27,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: burger.png
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5122946442795272577
+      m_GuidHigh: 17064475084133045923
+    m_SerializedTextureGuid:
+      m_GuidLow: 17218549916292166380
+      m_GuidHigh: 8778841173322444971
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Ramen
+    m_Texture: {fileID: 0}
