@@ -24,7 +24,7 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+An application created by Noa Cabeza, Júlia Cornejo, Jan Liria, Martina Sarrias and Stephanie Wisnar.
 
 ## License
 
